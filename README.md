@@ -1,4 +1,4 @@
-Visualiser for delphi to show strings 'as is'.
+Visualiser for Delphi to show strings 'as is'.
 
 - Can show very large strings (larger - slower). 
 - Can copy to clipboard.
