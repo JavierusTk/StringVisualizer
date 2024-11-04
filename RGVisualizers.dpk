@@ -32,8 +32,6 @@ requires
   designide;
 
 contains
-  ColorVisualizer in 'ColorVisualizer.pas' {ColorViewerFrame: TFrame},
-  DataSetVisualizer in 'DataSetVisualizer.pas' {DataSetViewerFrame: TDataSetViewerFrame},
   StringVisualizer in 'StringVisualizer.pas' {StringViewerFrame};
 
 end.
